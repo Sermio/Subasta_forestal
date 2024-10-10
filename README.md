@@ -4,7 +4,7 @@
 
 Here's the link to the PlayStore: https://play.google.com/store/apps/details?id=note.sbs_app&hl=en
 
-The Subasta Forestal application is an intuitive technology platform designed for those interested in buying or selling wood.
+The Subasta Forestal application is an intuitive technology platform designed for those interested in buying or selling wood. <strong>The visual design of the app was provided by the client to be followed accordingly.</strong>
 
 This application is aimed at both PROPERTY OWNERS (individuals and forestry communities) and BUYERS (self-employed individuals and companies).
 
